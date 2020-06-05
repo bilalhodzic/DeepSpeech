@@ -9,3 +9,6 @@ Code implementations of DeepSpeech project in python
  Install all the modules used in code.py
  
  Run the file
+ 
+ -------
+ You can use transcribe.py for transcribing your own voice with microphone
